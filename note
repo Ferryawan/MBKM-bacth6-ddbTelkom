@@ -1,4 +1,9 @@
 untuk Run unit Testing
+npm run test:watch
 npx jest nama-servicenya
 example : npx jest auth.service.spec.ts
- 
+
+code github push & Pull
+git remote add origin https://github.com/Ferryawan/MBKM-bacth6-ddbTelkom.git
+git branch -M main
+git push -u origin main
