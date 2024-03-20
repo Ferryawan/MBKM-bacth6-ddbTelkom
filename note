@@ -1,0 +1,4 @@
+untuk Run unit Testing
+npx jest nama-servicenya
+example : npx jest auth.service.spec.ts
+ 
